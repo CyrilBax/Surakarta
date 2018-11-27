@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Surakarta Game</string>
+    <string name="app_rules">Rules and History</string>
+    <string name="app_game">Let\'s play !</string>
+    <string name="logo">Logo</string>
+    <string name="title">Title</string>
+    <string name="button">Button</string>
+    <string name="uvhc_logo">UVHC Logo</string>
+    <string name="uvhc_title">UVHC Title</string>
+    <string name="how_to_play">How to Play</string>
+    <string name="one_player">One Player</string>
+    <string name="two_players">Two Players</string>
+    <string name="logo2">Logo2</string>
+    <string name="about_us">About us</string>
+    <string name="game_menu">Game Menu</string>
+    <string name="resume">Resume</string>
+    <string name="restart">Restart</string>
+    <string name="change_difficulty">Change Difficulty</string>
+    <string name="quit">Quit</string>
+    <string name="history">Surakarta is a little-known Indonesian strategy board game for two players, named after the ancient city of Surakarta in central Java. The game features an unusual method of capture which is "possibly unique" and "not known to exist in any other recorded board game".
+The real name of the game is permainan (meaning the game in Bahasa Indonesia). In Java, the game is also called dam-daman. It was first published in France in 1970 as "Surakarta". The game is called "Roundabouts" in Sid Sackson\'s The Book of Classic Board Games.</string>
+    <string name="rules1">Players decide who moves first, then turns alternate. The object of the game is to capture all 12 of the opponent\'s pieces; or if no further captures are possible, to have more pieces remaining on the board than the opponent.
+Pieces always rest on the points of intersection of the board\'s grid lines. On a turn, a player either moves one of his pieces a single step to an unoccupied point in any direction (forwards, backwards, sideways, or diagonally), or makes a capturing move special to Surakarta.</string>
+    <string name="rules2">A capturing move consists of traversing along an inner or outer circuit (colored blue or green in the illustration) around at least one of the eight corner loops of the board, followed by landing on an enemy piece, capturing it. Captured pieces are removed from the game.
+So, corner loop(s) are only used when making a capture. The capturing piece enters (and leaves) the circular loop via a grid line tangent to the circle. Any number of unoccupied points may be traveled over, before or after traversing a corner loop. An unoccupied point may be traveled over more than once during the capturing piece\'s journey. Only unoccupied points may be traveled over; jumping over pieces is not permitted.
+Capturing is always optional (never mandatory).</string>
+</resources>

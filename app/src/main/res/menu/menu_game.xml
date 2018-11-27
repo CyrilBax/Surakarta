@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/action_game_menu"
+        android:icon="@android:drawable/ic_media_pause"
+        android:title="@string/game_menu"
+        app:showAsAction="ifRoom">
+    </item>
+</menu>
